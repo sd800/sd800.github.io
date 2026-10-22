@@ -103,7 +103,6 @@ h5, h6          { font-weight: bolder }
     font-family: "Aleo-Bold", arial;
     font-size: 56px;
     font-weight: bold;
-    text-transform: uppercase;
     letter-spacing: 1px;
 }
 
@@ -111,10 +110,8 @@ h5, h6          { font-weight: bolder }
     color: #fff;
     font-family: "Aleo-Regular", arial;
     font-size: 18px;
-/*     font-size: 16px; */
     letter-spacing: 1px;
-    line-height: 13px;
-/*     line-height: 28px; */
+    line-height: normal;
 }
 
 .content p.description{
